@@ -1,0 +1,8 @@
+/* React Flow base */
+@import "reactflow/dist/style.css";
+
+/* Basic reset + React Flow styles */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+.react-flow__attribution { display: none; }
+
